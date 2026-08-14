@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Dataiza">
+  <title>Dataiza</title>
+  <g fill="none" stroke="#2f7d76" stroke-width="3" stroke-linejoin="round">
+    <path d="M24 4 42 13 24 22 6 13Z"/>
+    <path d="M6 24 24 33 42 24"/>
+    <path d="M6 35 24 44 42 35"/>
+  </g>
+</svg>
